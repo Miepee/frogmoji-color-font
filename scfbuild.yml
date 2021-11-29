@@ -1,5 +1,5 @@
-# SCFBuild configuration file for Twitter Color Emoji
-output_file: build/TwitterEmojiColor-SVGinOT.ttf
+# SCFBuild configuration file for Frog Color Emoji
+output_file: build/FrogEmojiColor-SVGinOT.ttf
 verbose: False
 glyph_svg_dir: build/svg-bw
 color_svg_dir: build/svg-color
@@ -17,21 +17,21 @@ table_name:
   copyright: >
     Copyright 2021 Brad Erickson CC-BY-4.0
     Copyright 2021 Twitter, Inc. CC-BY-4.0
-  family: Twitter Color Emoji
+  family: Frog Color Emoji
   # Subfamily is also called Style or Weight. Often set to: Regular
   subfamily: Regular
-  unique_id: Twitter Color Emoji SVGinOT eosrei.net
-  full_name: Twitter Color Emoji SVGinOT
+  unique_id: Frog Color Emoji SVGinOT eosrei.net
+  full_name: Frog Color Emoji SVGinOT
   #version:
   # No spaces in PostScript Names
-  postscript_name: TwitterColorEmojiSVGinOT
+  postscript_name: FrogColorEmojiSVGinOT
   #trademark:
   manufacturer: 13rac1
   designer: Twitter, Inc.
   description: >
-    A SVGinOT color emoji font using the Twitter Emoji for Everyone set:
-    https://github.com/eosrei/twemoji-color-font
-  url_vendor: https://github.com/eosrei/twemoji-color-font
-  url_designer: https://github.com/twitter/twemoji
+    A SVGinOT color emoji font using the Twitter Emoji for Everyone + Frogs set:
+    https://github.com/Miepee/frogmoji-color-font
+  url_vendor: https://github.com/Miepee/frogmoji-color-font
+  url_designer: https://git.froggi.es/Riesi/frog_emojis
   license: Creative Commons Attribution 4.0 International
   url_license: http://creativecommons.org/licenses/by/4.0/

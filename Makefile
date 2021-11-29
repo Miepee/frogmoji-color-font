@@ -9,13 +9,13 @@ TMP := /dev/shm
 SCFBUILD := SCFBuild/bin/scfbuild
 
 VERSION := 13.1.0
-FONT_PREFIX := TwitterColorEmoji-SVGinOT
+FONT_PREFIX := FrogColorEmoji-SVGinOT
 REGULAR_FONT := build/$(FONT_PREFIX).ttf
 REGULAR_PACKAGE := build/$(FONT_PREFIX)-$(VERSION)
 MACOS_FONT := build/$(FONT_PREFIX)-MacOS.ttf
 MACOS_PACKAGE := build/$(FONT_PREFIX)-MacOS-$(VERSION)
 LINUX_PACKAGE := $(FONT_PREFIX)-Linux-$(VERSION)
-DEB_PACKAGE := fonts-twemoji-svginot
+DEB_PACKAGE := fonts-frogmoji-svginot
 WINDOWS_TOOLS := windows
 WINDOWS_PACKAGE := build/$(FONT_PREFIX)-Win-$(VERSION)
 

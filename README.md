@@ -1,7 +1,7 @@
-# Twitter Color Emoji SVGinOT Font
+# Frog Color Emoji SVGinOT Font
 
 A color and B&W emoji SVG-OpenType / SVGinOT font built from the
-[Twitter Emoji for Everyone][1] artwork with support for [ZWJ][2],
+[Twitter Emoji for Everyone][1] artwork and [frog_emojis][5] repo with support for [ZWJ][2],
 [skin tone diversity][3] and [country flags][4].
 
 The font works in all operating systems, but will *currently* only show color
@@ -15,6 +15,7 @@ outline emoji are included for backwards/fallback compatibility.
 [3]: https://www.unicode.org/reports/tr51/#Diversity
 [4]: https://www.unicode.org/reports/tr51/#Flags
 [why-not-chrome]: https://bugs.chromium.org/p/chromium/issues/detail?id=306078
+[5]: https://github.com/Miepee/frogmoji-color-font
 
 ## Table of Contents
 
@@ -57,8 +58,8 @@ systems default serif, sans-serif and monospace fonts.*
 ### Why Bitstream Vera
 The default serif, sans-serif and monospace font for most Linux distributions is
 `DejaVu`. `DejaVu` includes a wide range of symbols which override the
-`Twitter Color Emoji` characters. The previous solution was to make
-`Twitter Color Emoji` the default system font, but that causes a number of issues.
+`Frog Color Emoji` characters. The previous solution was to make
+`Frog Color Emoji` the default system font, but that causes a number of issues.
 A better solution is a different font that doesn't override any emoji characters
 such as `Bitstream Vera`. `Bitstream Vera` is the source of the glyphs used in
 `DejaVu`, so it's not very different. 99%+ of people will not notice the
